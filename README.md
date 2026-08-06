@@ -9,3 +9,7 @@ Embedded Purpurium has been scanned with VirusTotal.
 
 🔒 VirusTotal Report:
 https://www.virustotal.com/gui/file/79f9afb734ee67310fd464390241d0a31f9a8ef57cc163460974602677e81cef?nocache=1
+
+## My Plugin Links:
+https://hangar.papermc.io/Mc_gamerYT/LuckyBlock-By-Mc_gamerYT
+https://github.com/Woxpart/LuckyBlock-src
